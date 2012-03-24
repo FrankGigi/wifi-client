@@ -1,0 +1,66 @@
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, 宋体, fantasy
+}
+DIV {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, 宋体, fantasy
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, 宋体, fantasy
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, 宋体, fantasy
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, 宋体, fantasy
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, 宋体, fantasy
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.border {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+A:link {
+	COLOR: #2f2f2f; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #2f2f2f; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.button {
+	BORDER-RIGHT: #a0bacd 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #a0bacd 1px solid; DISPLAY: inline; PADDING-LEFT: 1px; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: #ffffff; PADDING-BOTTOM: 1px; BORDER-LEFT: #a0bacd 1px solid; CURSOR: hand; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #a0bacd 1px solid; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Verdana; FONT-VARIANT: normal
+}
+.textfield {
+	BORDER-RIGHT: #a0bacd 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #a0bacd 1px solid; DISPLAY: inline; PADDING-LEFT: 1px; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: #ffffff; PADDING-BOTTOM: 1px; BORDER-LEFT: #a0bacd 1px solid; CURSOR: hand; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #a0bacd 1px solid; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Verdana; FONT-VARIANT: normal
+}
+.title1 {
+	FONT-WEIGHT: bold; PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+.admintable {
+	BORDER-RIGHT: #ebf2f9 1px solid; BORDER-TOP: #ebf2f9 1px solid; MARGIN-BOTTOM: 10px; BORDER-LEFT: #ebf2f9 1px solid; WIDTH: 98%; BORDER-BOTTOM: #ebf2f9 1px solid
+}
+.admintable1 {
+	BORDER-RIGHT: #ebf2f9 1px solid; BORDER-TOP: #ebf2f9 1px solid; BORDER-LEFT: #ebf2f9 1px solid; WIDTH: 98%; BORDER-BOTTOM: #ebf2f9 1px solid
+}
+.admintitle {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: #6298e1; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.admintitle A:link {
+	FONT-SIZE: 12px; COLOR: #fff200
+}
+.admintitle A:visited {
+	FONT-SIZE: 12px; COLOR: #fff200
+}
+.admintitle A:hover {
+	COLOR: #3e962c
+}
+.admintitle SPAN {
+	FLOAT: right
+}
+.tdleft {
+	PADDING-LEFT: 10px
+}

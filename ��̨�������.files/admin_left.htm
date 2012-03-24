@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0060)http://localhost/zhicom/admin/admin_left.asp?action=menu&m=7 -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>智睿软件系统--后台控制面板<</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312"><LINK 
+href="admin_left.files/left.css" type=text/css rel=stylesheet>
+<SCRIPT language=JavaScript>
+function showsubmenu(sid) {
+	var whichEl = document.getElementById("submenu" + sid);
+	var menuTitle = document.getElementById("menuTitle" + sid);
+	if (whichEl!=null) {
+		if (whichEl.style.display == "none"){
+			whichEl.style.display='';
+			if (menuTitle!=null)
+			menuTitle.className='menu_title';
+		}else{
+			whichEl.style.display='none';
+			if (menuTitle!=null)
+			menuTitle.className='menu_title2';
+		}
+	}
+}
+</SCRIPT>
+
+<META content="MSHTML 6.00.2900.5880" name=GENERATOR></HEAD>
+<BODY>
+<TABLE class=listflow height="100%" cellSpacing=0 cellPadding=0>
+  <TBODY>
+  <TR>
+    <TD class=listbg vAlign=top>
+      <DL>
+        <DT class=menu_title id=menuTitle7 onclick=showsubmenu(7)>产品管理 
+        <DD id=submenu7>
+        <UL>
+          <LI><A 
+          href="http://localhost/zhicom/admin/Admin_po_Class.asp?Action=Manage" 
+          target=mainFrame>栏目管理</A> | <A 
+          href="http://localhost/zhicom/admin/Admin_po_Class.asp?action=add" 
+          target=mainFrame>栏目添加</A> 
+          <LI><A href="http://localhost/zhicom/admin/Admin_poli.asp" 
+          target=mainFrame>产品管理</A> | <A 
+          href="http://localhost/zhicom/admin/Admin_po.asp?Result=Add" 
+          target=mainFrame>产品添加</A> 
+          <LI><A href="http://localhost/zhicom/admin/Admin_po_poli.asp" 
+          target=mainFrame>图片管理</A> | <A 
+          href="http://localhost/zhicom/admin/Admin_pl.asp?cli=6" 
+          target=mainFrame>产品评论</A> </LI></UL></DD></DL></TD></TR>
+  <TR>
+    <TD class=navbottom 
+style="BACKGROUND-REPEAT: no-repeat"></TD></TR></TBODY></TABLE></BODY></HTML>

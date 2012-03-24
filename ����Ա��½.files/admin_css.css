@@ -1,0 +1,36 @@
+
+td,div,input,select,textarea,body {font-family:Verdana, ËÎÌו, fantasy;font-size:12px;}
+body {margin:0 0px 0px 0px;padding:0;font-size:12px;}
+.border{
+font-size:12px;
+border:#000 solid 1px;
+}
+A:link {
+    color: #2f2f2f;
+	text-decoration: none;
+}
+A:visited {
+    color: #2f2f2f;
+	text-decoration: none;
+}
+A:hover { 
+	color: #FF6600;
+	text-decoration: none;
+}
+.button{padding:1px;cursor:hand;display:inline;color: #000000; font-weight: normal;border:1px solid #A0BACD;background: #FFFFFF; font-style:normal; font-variant:normal; font-size:12px; font-family:Tahoma, Verdana}
+.textfield{padding:1px;cursor:hand;display:inline;color: #000000; font-weight: normal;border:1px solid #A0BACD;background: #FFFFFF; font-style:normal; font-variant:normal; font-size:12px; font-family:Tahoma, Verdana}
+
+
+.title1 {text-align:left;font-weight:bold;padding-top:3px;}
+
+.admintable {width:98%;border:1px solid #EBF2F9;margin-bottom:10px;}
+.admintable1 {width:98%;border:1px solid #EBF2F9;}
+
+.admintitle {font-weight:bold;FONT-SIZE: 12px; COLOR: #FFFFFF; TEXT-DECORATION: none;padding:5px;text-align:left;background-color:#6298E1;}
+.admintitle a:link,.admintitle a:visited {font-size:12px;COLOR: #FFf200;}
+.admintitle a:hover {color:#3E962C;}
+.admintitle span {float:right;}
+
+.tdleft{padding-left:10px;}
+
+

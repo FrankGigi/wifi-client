@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0045)http://localhost/zhicom/admin/admin_index.asp -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>智睿网-后台控制面板</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META http-equiv=cache-control content=no-cache>
+<META http-equiv=pragma content=no-cache><LINK href="后台控制面板.files/style.css" 
+type=text/css rel=stylesheet>
+<STYLE type=text/css>HTML {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: medium none; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; HEIGHT: 100%
+}
+BODY {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: medium none; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; HEIGHT: 100%
+}
+TABLE {
+	FONT-SIZE: 12px; FONT-FAMILY: tahoma, 宋体, fantasy
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: tahoma, 宋体, fantasy
+}
+</STYLE>
+
+<SCRIPT type=text/javascript>
+<!--
+var status = 1;
+function switchSysBar(){
+     if (1 == window.status){
+		  window.status = 0;
+          switchPoint.innerHTML = '<img src="images/left.gif"/>';
+          document.all("left_iframe").style.display="none"
+		  document.all("left_table").style.display="none"
+     }
+     else{
+		  window.status = 1;
+          switchPoint.innerHTML = '<img src="images/right.gif"/>';
+          document.all("left_iframe").style.display=""
+		  document.all("left_table").style.display=""
+     }
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript src="" type=text/javascript></SCRIPT>
+
+<META content="MSHTML 6.00.2900.5880" name=GENERATOR></HEAD>
+<BODY class=frame_class>
+<TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD id=head_iframe colSpan=2 height=60><IFRAME id=topFrame name=topFrame 
+      src="后台控制面板.files/admin_top.htm" frameBorder=no noResize width="100%" 
+      scrolling=no height="100%"></IFRAME></TD></TR>
+  <TR>
+    <TD id=left_table height=11>
+      <DIV class=toplineimg></DIV></TD>
+    <TD class=topline style="OVERFLOW: hidden; HEIGHT: 11px"></TD></TR>
+  <TR>
+    <TD id=left_iframe vAlign=top><IFRAME id=leftFrame 
+      style="VISIBILITY: inherit; WIDTH: 188px; HEIGHT: 100%" name=leftFrame 
+      src="后台控制面板.files/admin_left.htm" frameBorder=no noResize 
+      scrolling=no></IFRAME></TD>
+    <TD id=main_iframe vAlign=top><IFRAME id=mainFrame 
+      style="Z-INDEX: 1; VISIBILITY: inherit; WIDTH: 100%; HEIGHT: 100%" 
+      name=mainFrame src="后台控制面板.files/Admin_Poli.htm" 
+    frameBorder=no></IFRAME></TD></TR>
+  <TR>
+    <TD id=foot_iframe colSpan=2 height=30>
+      <TABLE class=botbg cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR height=32>
+          <TD style="WIDTH: 38px" onclick=switchSysBar() align=middle><SPAN 
+            class=navpoint id=switchPoint title=关闭/打开左栏><IMG alt="" 
+            src="后台控制面板.files/right.gif"></SPAN></TD>
+          <TD 
+            style="FONT-SIZE: 11px; FONT-FAMILY: arial; TEXT-ALIGN: left">Copyright 
+            Right &copy; 2009-2010 <A href="http://www.zhirui.net/" 
+            target=mainFrame>zhirui.net</A></TD>
+          <TD style="PADDING-RIGHT: 20px; TEXT-ALIGN: right"><A 
+            href="http://localhost/zhicom/admin/Admin_Config.asp" 
+            target=mainFrame>后台设置</A> | <A 
+            href="http://localhost/zhicom/admin/Admin_PassUp.asp" 
+            target=mainFrame>安全密码修改</A> | <A 
+            href="http://localhost/zhicom/admin/Admin_data.asp?action=SpaceSize" 
+            target=mainFrame>空间占用</A> | <A 
+            onclick="return confirm('系统提示：您确定要退出后台管理吗?')" 
+            href="http://localhost/zhicom/admin/admin_index.asp?Sub=Logout" 
+            target=_top>注销退出</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><IFRAME 
+id=hiddenFrame style="DISPLAY: none" name=hiddenFrame 
+src="about:blank"></IFRAME></BODY></HTML>

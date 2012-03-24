@@ -1,0 +1,34 @@
+A {COLOR: #333333;font-family: "宋体";text-decoration: none;} 
+A:hover {COLOR: #333333;font-family: "宋体";text-decoration: underline;}
+BODY {scrollbar-face-color:#FFFFFF;scrollbar-highlight-color:#FFFFFF;scrollbar-3dlight-color:#FFFFFF;scrollbar-darkshadow-color:#FFFFFF;scrollbar-shadow-color:#FFFFFF;scrollbar-arrow-color:#006699;scrollbar-track-color:#A2B9EA;margin: 0px;font-family: "宋体";font-size: 9pt;font-style: normal;line-height: 120%;background-image: none;}
+TD {FONT-SIZE: 9pt;COLOR: #333333;LINE-HEIGHT: 180%;FONT-FAMILY: "宋体";font-style: normal;font-weight: normal;font-variant: normal;}
+INPUT {font-family: "宋体";font-size: 9pt;color: #333333;border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;border-top-color: #808080;border-right-color: #f7f7f7;border-bottom-color: #f7f7f7;border-left-color: #808080;}
+BUTTON {font-family: "宋体";font-size: 9pt;color: #333333;background-color: #efefef;}
+SELECT {font-family: "宋体";font-size: 9pt;color: #333333;border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;border-top-color: #808080;border-right-color: #f7f7f7;border-bottom-color: #f7f7f7;border-left-color: #808080;}
+textarea {font-family: "宋体";font-size: 9pt;color: #333333;border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;border-top-color: #808080;border-right-color: #f7f7f7;border-bottom-color: #f7f7f7;border-left-color: #808080;}
+.Glow {FILTER: Glow(Color=999999, Strength=1) dropshadow(Color=999999, OffX=1, OffY=1,); WIDTH: 100%; COLOR: #ffffff; LINE-HEIGHT: 20px}
+.Body1 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 9pt;color: #333333;FILTER: dropshadow(Color=#ffffff, OffX=1, OffY=1,); WIDTH: 100%; COLOR: #999999; LINE-HEIGHT: 20px}
+.sec_menu {BORDER-RIGHT: white 1px solid; BACKGROUND: #d6dff7; OVERFLOW: hidden; BORDER-LEFT: white 1px solid; BORDER-BOTTOM: white 1px solid}
+.menu_title SPAN {FONT-WEIGHT: bold; LEFT: 10px; COLOR: #215dc6; POSITION: relative; TOP: 2px;}
+.menu_title2 SPAN {FONT-WEIGHT: bold; LEFT: 10px; COLOR: #428eff; POSITION: relative; TOP: 2px}.Title {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 9pt;}
+.Body1 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 9pt;color: #333333;FILTER: dropshadow(Color=#ffffff, OffX=1, OffY=1,); WIDTH: 100%; COLOR: #999999; LINE-HEIGHT: 20px}
+.Wenben {font-size: 9pt;color: #333333;border: 1pt solid #333333;background-color: #D0F2F7;font-family: Verdana, Arial, Helvetica, sans-serif;}
+.Table1 {font-family: "宋体";font-size: 9pt;padding-right: 4pt;padding-left: 4pt;}
+.Table2 {padding-left: 45px;}
+.Table3 {padding-left: 12px;font-weight: bold;color: #FFFFFF;padding-top: 0px;padding-right: 10px;padding-bottom: 0px;height: 24px;}
+.Table4 {padding-left: 12px;font-weight: normal;padding-top: 1px;padding-right: 10px;padding-bottom: 1px;}
+.Table5 {padding-left: 12px;font-weight: bold;padding-top: 1px;padding-right: 10px;padding-bottom: 1px;font-variant: normal;background-color: #EBF2F9;}
+.Table6 {font-weight: bold;font-variant: normal;background-color: #89ACE0;font-family: "宋体";font-size: 9pt;color: #FFFFFF;height: 24px;}
+.Table7 {padding-left: 12px;font-weight: normal;padding-top: 5px;padding-right: 10px;padding-bottom: 5px;}
+.Table8 {padding-left: 10px;padding-top: 1px;padding-right: 10px;padding-bottom: 1px;font-variant: normal;background-color: #EBF2F9;}
+.Table9 {font-variant: normal;background-color: #EBF2F9;font-family: "宋体";font-size: 9pt;}
+.Table10 {font-variant: normal;background-color: #EBF2F9;font-family: "宋体";font-size: 9pt;}
+.Table11 {font-variant: normal;background-color: #EBF2F9;}
+.table15 {font-family: "宋体";font-size: 10pt;line-height: 150%;padding-top: 10pt;padding-bottom: 10pt;}
+.ubb_tableall {padding: 4px;background-color: #efefef;border-top: 1px solid #CCCCCC;border-right: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;}
+.ubb_tablein {background-color: #EBF2F9;padding-top: 2pt;text-align: center;vertical-align: middle;height: 18px;width: 24px;border: 1px solid #FFFFFF;}
+.submit_all {border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;border-top-color: #f7f7f7;border-right-color: #808080;border-bottom-color: #808080;border-left-color: #f7f7f7;}
+.radio_all {border: 0px none;}
+
+
+

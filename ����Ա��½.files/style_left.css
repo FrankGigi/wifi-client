@@ -1,0 +1,108 @@
+BODY {
+	BACKGROUND: url(../images/left_bg.gif); MARGIN: 0px; OVERFLOW: hidden
+}
+.menu UL {
+	LIST-STYLE-TYPE: none
+}
+.menu LI {
+	FLOAT: left; LIST-STYLE-TYPE: none
+}
+.copyright {
+	PADDING-LEFT: 10px; FONT-SIZE: 12px; COLOR: #e1feff; LINE-HEIGHT: 18px; FONT-FAMILY: Arial; HEIGHT: 24px
+}
+.copyright2 {
+	PADDING-LEFT: 30px; FONT-SIZE: 12px; COLOR: #e1feff; LINE-HEIGHT: 18px; FONT-FAMILY: Arial; HEIGHT: 24px
+}
+.copyright A {
+	COLOR: #e1feff; TEXT-DECORATION: none
+}
+.copyright2 A {
+	COLOR: #e1feff; TEXT-DECORATION: none
+}
+.copyright A:hover {
+	COLOR: #e1feff; TEXT-DECORATION: underline
+}
+.copyright2 A:hover {
+	COLOR: #e1feff; TEXT-DECORATION: underline
+}
+
+input.smallInput{background:#ffffff; border-bottom-width:1px;border-top-width:0px;border-left-width:0px;border-right-width:0px; solid #ff6633; color: #000000; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; HEIGHT: 18px; LINE-HEIGHT: normal}
+
+#loginbody {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #fff
+}
+.menu {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto; TEXT-ALIGN: center
+}
+#login {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto; TEXT-ALIGN: center
+}
+#adminboxall {
+	MARGIN-TOP: 100px; BACKGROUND: url(logbj.gif) #fff repeat-x; TEXT-ALIGN: center
+}
+.clearbox {
+	CLEAR: both; BORDER-TOP: transparent 1px solid; MARGIN-TOP: -1px! important; VISIBILITY: hidden
+}
+.adminboxtop {
+	BACKGROUND: url(admin_top.gif) no-repeat center top; HEIGHT: 167px
+}
+#adminboxmain {
+	BACKGROUND: url(admin_main.gif) no-repeat center top; HEIGHT: 39px
+}
+.menu {
+	WIDTH: 460px; PADDING-TOP: 6px; TEXT-ALIGN: right
+}
+.adminboxbottom {
+	BACKGROUND: url(admin_bottom.gif) no-repeat center top; HEIGHT: 87px
+}
+#login {
+	WIDTH: 550px
+}
+#login UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#login LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.text {
+	FONT-SIZE: 12px; 
+}
+.box1 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 21px; PADDING-TOP: 0px; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+.box2 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 21px; PADDING-TOP: 0px; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+.box3 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 21px; PADDING-TOP: 0px; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+.box4 {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 21px; PADDING-TOP: 0px; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+.box1 {
+	PADDING-LEFT: 22px
+}
+.box2 {
+	PADDING-LEFT: 22px
+}
+.box3 {
+	PADDING-LEFT: 22px
+}
+.box4 {
+	PADDING-LEFT: 22px
+}
+.box1 {
+	BACKGROUND: url(logyh.gif) no-repeat; WIDTH: 85px
+}
+.box2 {
+	BACKGROUND: url(logmm.gif) no-repeat; WIDTH: 85px
+}
+.box3 {
+	BACKGROUND: url(loggl.gif) no-repeat; WIDTH: 85px
+}
+.box4 {
+	BACKGROUND: url(logyz.gif) no-repeat; WIDTH: 180px
+}
+.box4 IMG {
+	MARGIN-LEFT: 0px
+}

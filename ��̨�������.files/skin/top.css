@@ -1,0 +1,23 @@
+td,body {font-family:Verdana;font-size:12px;background:#11456C url(bg.gif) repeat-x;}
+form,body {margin:0;padding:0;}
+a {text-decoration:underline;cursor:pointer;}
+.headTable{/*clear:left;position:relative;*/background:url(top_bg.jpg) no-repeat right top;height:60px;}
+#topline {position:absolute;left:188px;width:auto;height:23px;overflow:hidden;}
+#topmenu {float:right;width:auto;height:23px;text-align:right;margin-top:5px;margin-left:5px;margin-right:5px;}
+div#topmenu, #topmenu a,#topmenu a:hover {color:#dde8f2;}
+#sysAnnounce {float:left;width:450px;color:#fff;}
+#sysAnnounce a{color:#fff;text-decoration:none;}
+#NewAspAnnounce {color:#fff;font-weight:bold;float:left;width:450px;margin-left:3px;}
+.system_logo {width:185px;}
+#system_logo {float:left;text-align:center;width:185px;margin-top:5px;}
+#menuTabs div {margin:0px;padding:0px;}
+#menuTabs {position:absolute;left:188px;top:21px;width:auto;line-height:normal;margin:10px 0 0 0px;}
+#menuTabs ul {margin:0;padding:0px 10px 0 0px ;list-style:none;}
+#menuTabs li {display:inline;margin:0;padding:0;}
+#menuTabs a {float:left;background:url(tableft.gif) no-repeat left top;margin:0px;padding:0 0 0 4px;text-decoration:none;}
+#menuTabs a span {float:left;display:block;background:url(tabright.gif) no-repeat right top;padding:8px 8px 6px 6px;color:#e9f4ff;}
+#menuTabs a span {float:none;}
+#menuTabs a:hover span {color:#fff;}
+#menuTabs a:hover {background-position:0% -46px;}
+#menuTabs a:hover span {background-position:100% -46px;color:#333;}
+ 
