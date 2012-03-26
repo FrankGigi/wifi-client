@@ -68,16 +68,11 @@
             <div class="menu">
                 <ul>
                     <li><a href="home.php">主页</a>
-                    <li><a href="../case/main.php">Test Case</a>
-                    <li><a href="../plan/main.php">Validation Plan</a>
-                    <li><a href="../local_build/main.php">Execution Task</a>
-                        <!-- <li><a href="../exec/main.php">Execution</a> -->
-                    <li><a href="../user/main.php">Domain</a>
-                    <li><a href="../user/user.php">My Profile</a>
-                    <li><a href="../log/main.php">History</a>
-                   <li><a href="../report/index.php">Report</a>
+                    <li><a href="../case/main.php">用户信息管理</a>
+                    <li><a href="../plan/main.php">WIFI移动设备管理</a>
+                    <li><a href="../user/main.php">移动设备位置查询</a>
+                    <li><a href="../exit/exit.php">退出</a>
                     
-                        <li><a href="../admin/main.php">Admin</a>
                         
                 </ul>
             </div>
