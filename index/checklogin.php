@@ -24,10 +24,11 @@ $userInfo = @mysql_fetch_array($result);
 if (!empty($userInfo)) {  
 if ($userInfo["username"] == $username) {  
 // 当验证通过后，启动 Session  
-//session_start();  
+   session_start();  
 echo("<script>location.href='main.php'</script>"); 
 // 注册登陆成功的 admin 变量，并赋值 true  
-//$_SESSION["admin"] = true;  
+$_SESSION["LoginName"] = $username; 
+$_SESSION['LoginPassword']=$password;
 } else {  
 echo ("<script>alert('用户名或密码错误！')</script>"); 
 echo("<script>location.href='index.php'</script>"); 

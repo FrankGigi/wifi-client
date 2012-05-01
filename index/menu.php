@@ -68,9 +68,9 @@
             <div class="menu">
                 <ul>
                     <li><a href="home.php">主页</a>
-                    <li><a href="../case/main.php">用户信息管理</a>
-                    <li><a href="../plan/main.php">WIFI移动设备管理</a>
-                    <li><a href="../user/main.php">移动设备位置查询</a>
+                    <li><a href="../user management/manage.php">用户信息管理</a>
+                    <li><a href="http://www.hao123.com">WIFI移动设备管理</a>
+                    <li><a href="../location/main.php">移动设备位置查询</a>
                     <li><a href="../exit/exit.php">退出</a>
                     
                         
