@@ -7,7 +7,7 @@
 </head>
 
 <div id="header" class="header">
-<div class="headTitle">上海大学WIFI定位管理系统</div>
+<div class="headTitle">2010上海大学WIFI定位管理系统</div>
 <div class="version"><br>Version 1.3.5 &nbsp;&nbsp;</div>
 </div>
 </html>
